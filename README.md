@@ -9,7 +9,7 @@ Cybersecurity professional focused on defensive cyber operations. Passionate abo
 **[CORVUS](https://github.com/michaelddickenson/CORVUS)** — Cyber Operations Case Management System  
 Full-stack case management platform built specifically for defensive cyber operations teams. Supports multi-team DCO workflows, immutable audit trails, MITRE ATT&CK integration, and CJCSM 6510.01B-aligned incident categorization. On-prem deployment via Docker with LDAP/AD authentication.  
 `Next.js` `PostgreSQL` `Docker` `TypeScript`  
-[Live Demo](#) *(update after deploy)*
+[Live Demo](https://corvus-demo.vercel.app) — `demoadmin@demo.local` / `Demo1234!` or `demouser1@demo.local` / `Demo1234!`
 
 **[ThreatLens](https://michaelddickenson.github.io/threatlens/)** — Threat Intelligence Platform  
 Interactive platform for exploring documented APT campaigns stage by stage. Toggle between attacker and defender perspectives, compare threat actors side by side, track TTPs across operations, and view Diamond Intrusion Model and kill chain visualizations — all mapped to MITRE ATT&CK.  
