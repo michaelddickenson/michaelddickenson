@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Michael%20Dickenson&fontSize=50&fontColor=ffffff&fontAlignY=45" width="100%"/>
 </div>
 
-Cybersecurity professional focused on defensive cyber operations. Passionate about continuous growth across cyber — from blue team operations and threat intelligence to malware analysis, penetration testing, exploit development, and vulnerability research.
+<div align="center">Cybersecurity professional focused on defensive cyber operations. Passionate about continuous growth across cyber — from blue team operations and threat intelligence to malware analysis, penetration testing, exploit development, and vulnerability research.</div>
 
 ---
 
