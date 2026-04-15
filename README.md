@@ -4,7 +4,7 @@ Cybersecurity professional focused on defensive cyber operations. Passionate abo
 
 ---
 
-## Projects
+## Cyber Projects
 
 **[CORVUS](https://github.com/michaelddickenson/CORVUS)** — Cyber Operations Case Management System  
 Full-stack case management platform built specifically for defensive cyber operations teams. Supports multi-team DCO workflows, immutable audit trails, MITRE ATT&CK integration, and CJCSM 6510.01B-aligned incident categorization. On-prem deployment via Docker with LDAP/AD authentication.  
@@ -20,6 +20,12 @@ Write-ups of malware samples I analyze. Posted as completed.
 
 **[Bug Bounty](https://github.com/michaelddickenson/bug-bounty)**  
 Vulnerability research and write-ups posted post-disclosure.
+
+## Non-Cyber Projects
+
+**[Alpha Engine](https://github.com/michaelddickenson/alpha-engine)** — Self-Hosted Portfolio Management System  
+Momentum-based portfolio engine that scores the S&P 500 daily using a composite quant signal, generates biweekly rebalance trade plans with FIFO lot tracking, and emails them automatically. Full web dashboard with NAV vs SPY performance tracking. Self-hosted on Linux with nginx + Gunicorn.
+`Python` `Flask` `SQLite` `yfinance` `Gunicorn` `nginx`
 
 ---
 
