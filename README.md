@@ -41,7 +41,7 @@ Write-ups of malware samples I analyze. Posted as completed.
 </td>
 <td width="50%" valign="top">
 
-**[Bug Bounty](https://github.com/michaelddickenson/bug-bounty)**
+**[Vulnerability Research](https://github.com/michaelddickenson/vuln-research)**
 
 Vulnerability research and write-ups posted post-disclosure.
 
