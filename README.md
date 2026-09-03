@@ -43,7 +43,7 @@ Write-ups of malware samples I analyze. Posted as completed.
 
 **[Vulnerability Research](https://github.com/michaelddickenson/vuln-research)**
 
-Vulnerability research and write-ups posted post-disclosure.
+My vulnerability research and Published CVEs.
 
 </td>
 </tr>
